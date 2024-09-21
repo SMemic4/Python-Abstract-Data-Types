@@ -9,7 +9,7 @@ Current ADTs:
 
  * [Bags](#bags)
  * * [Bag](#Bag)
-   * [Grab Bag](#Grabbag)
+   * [Grab Bag](#GrabBag)
 
 ---
 
