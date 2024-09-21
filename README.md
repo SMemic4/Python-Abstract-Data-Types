@@ -7,7 +7,7 @@ For each ADT, I will provide a definition, their operations, and analysis on the
 
 Current ADTs:
 
- * [Bag](## Bag)
+ * [Bag](#bag)
 
 ---
 
