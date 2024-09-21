@@ -9,7 +9,7 @@ Current ADTs:
 
  * [Bags](#bags)
  * * [Bag](#Bag)
-   * [Grab Bag](#GrabBag)
+   * [Grab Bag](#grab-bag)
 
 ---
 
@@ -35,3 +35,5 @@ Current ADTs:
 * **iterator()**: Creates and returns an iterator that can be used to iterate over the collection of items
 
 ### Grab Bag
+
+> Similar to the bag ADT, except the **remove()** operation is replaced with **grabItem()** which removes an item at random
