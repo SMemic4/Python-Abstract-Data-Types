@@ -7,11 +7,15 @@ For each ADT, I will provide a definition, their operations, and analysis on the
 
 Current ADTs:
 
- * [Bag](#bag)
+ * [Bags](#bags)
+ * * [Bag](#Bag)
+   * [Grab Bag](#Grabbag)
 
 ---
 
-## Bag 
+## Bags 
+
+### Bag
 
 > A bag is a container that stores a collection in which duplicate values are allowed. The items, each of which is individually stored, have no particular order but they must be comparable
 
@@ -29,3 +33,5 @@ Current ADTs:
 * **add(***item***)**: Adds *item* to the bag
 * **remove(***item***)**: Removes *item* from the bag if it exists. Raises an exception otherwise
 * **iterator()**: Creates and returns an iterator that can be used to iterate over the collection of items
+
+### Grab Bag
